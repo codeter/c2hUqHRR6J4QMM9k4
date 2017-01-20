@@ -3373,6 +3373,8 @@ input[type=range] + .thumb {
   margin-right: -0.75rem;
 }
 
+.sidebar h2, .title{font-size:20px;}
+
 .section {
   padding-top: 1rem;
   padding-bottom: 1rem;
