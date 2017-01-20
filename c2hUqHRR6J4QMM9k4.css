@@ -3373,7 +3373,9 @@ input[type=range] + .thumb {
   margin-right: -0.75rem;
 }
 
-.sidebar h2, .title{font-size:20px;}
+#aside h2, .title{font-size:25px;font-weight:bold;text-align:center;background:#00897b;position:relative;margin-top:0}
+#aside .widget{width:301px;}
+#aside .widget-content{font-size:18px;border:1px solid;position:relative;top:-23px;}
 
 .section {
   padding-top: 1rem;
