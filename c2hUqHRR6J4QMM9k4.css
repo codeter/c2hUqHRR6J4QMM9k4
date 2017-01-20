@@ -3377,6 +3377,16 @@ input[type=range] + .thumb {
 #aside .widget{width:301px;}
 #aside .widget-content{font-size:18px;border:1px solid;position:relative;top:-23px;}
 
+header, main, footer {
+      padding-left: 300px;
+    }
+
+    @media only screen and (max-width : 992px) {
+      header, main, footer {
+        padding-left: 0;
+      }
+    }
+
 .section {
   padding-top: 1rem;
   padding-bottom: 1rem;
