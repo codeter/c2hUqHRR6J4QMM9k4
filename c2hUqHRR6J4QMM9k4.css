@@ -2159,6 +2159,10 @@ html {
  */
 body {
   margin: 0;
+  background:#e0f2f1;
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+  font-weight:200px;
+  font-size:20px;
 }
 
 /* HTML5 display definitions
